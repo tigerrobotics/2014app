@@ -1,0 +1,16 @@
+Enter file contents here<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="trial.css">
+	<title>Slidell High Robotics</title>
+</head>
+<body>
+
+	<div id="std">
+		<a href=""></a><img src="http://slidell-robotics.com/files/logo.png"/>
+		<h1>Slidell High Robotics</h1>
+	<div id="crp">
+		<a href="">Scoring</a><br><a href="caleb.html">Messenger</a>
+	</div>
+	
+</body>
+</html>
